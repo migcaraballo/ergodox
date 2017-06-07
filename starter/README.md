@@ -1,0 +1,1 @@
+This is my standard layout for mac/osx. 
