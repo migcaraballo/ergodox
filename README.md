@@ -1,5 +1,3 @@
 # Ergodox
 
-This is my ErgoDox compiled hex file.
-
-Layout Url: 
+These are my ErgoDox layouts.

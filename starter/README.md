@@ -1,1 +1,3 @@
-This is my standard layout for mac/osx. 
+# Ergodox migs-starter
+
+Layout Url: http://configure.ergodox-ez.com/keyboard_layouts/koxxoy
